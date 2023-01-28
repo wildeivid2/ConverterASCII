@@ -1,0 +1,26 @@
+-classpath
+'/home/wdc/.m2/repository/org/apache/tomcat/tomcat-tribes/11.0.0-M1/tomcat-tribes-11.0.0-M1.jar:/home/wdc/.m2/repository/org/apache/tomcat/tomcat-juli/11.0.0-M1/tomcat-juli-11.0.0-M1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/wdc/NetBeansProjects/ConverterASCII/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/wdc/NetBeansProjects/ConverterASCII/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ConverterASCII 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/wdc/NetBeansProjects/ConverterASCII/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ConverterASCII 1.0-SNAPSHOT API'
